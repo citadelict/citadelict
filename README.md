@@ -27,7 +27,7 @@ I thrive in collaborative environments, improving system performance while reduc
 ---
 
 ## 📈 GitHub Stats
-![Chidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chidi-Austin&show_icons=true&theme=radical)
+![Chidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=citadelict&show_icons=true&theme=radical)
 
 ---
 
